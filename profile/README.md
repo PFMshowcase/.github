@@ -28,11 +28,16 @@ This app has been developed to utilise the CDR's Open Banking standard through B
 - SDWebImageSVGCoder
 - SDWebImageSwiftUI
 #### Typescript
-<span style="background-color: #FFF00">In Progress</span>
+In Progress
 
 ## How to install
+In Progress
+
 ## How to use
+In Progress
+
 ## License
+Each repo is licensed under the GNU General Public License V3, the license conditions can be found in the LICENSE md file in each respective repo.
 
 [^1]: Functions As A Service
 [^2]: Google Cloud Platform
