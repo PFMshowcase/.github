@@ -1,6 +1,6 @@
 # SimpliFunds
 ## Title
-A fully fledged native IOS application designed to showcase a Personal Finance Manager.
+A native IOS application designed to showcase a Personal Finance Manager.
 The app is called "SimpliFunds" and is a simple app for managing finances accross different bank accounts.
 
 ## Description
